@@ -1,1 +1,6 @@
-.idea.DS_Storewordpress/.idea/./mysql//nginx/certs//mysql/
+.DS_Store
+/.idea
+/.vscode
+/mysql
+/nginx/certs
+/wordpress/.idea
